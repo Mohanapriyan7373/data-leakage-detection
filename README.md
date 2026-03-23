@@ -70,7 +70,7 @@ Future Enhancements
 - Web-based interface
 - Stronger encryption algorithms
 
-Author
+Authors
 **Mohanapriyan M**
 **Mouli M**
 **Kaviyaa B S**
